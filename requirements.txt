@@ -1,0 +1,5 @@
+#pygame 2.1.2
+pip install pygame
+
+#pytest 7.2.0
+pip install pytest
